@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Kingfisher (3.5.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Kingfisher: 9950e382c500b6834ce004c7c4131c444e90c3a1
+
+PODFILE CHECKSUM: 47dec9918a9c15f4b78e9e4281b43ca49c807c60
+
+COCOAPODS: 1.2.1.beta.1

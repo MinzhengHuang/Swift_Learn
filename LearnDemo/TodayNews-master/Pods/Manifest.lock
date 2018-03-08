@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.4.0)
+  - FDFullscreenPopGesture (1.1)
+  - Kingfisher (3.5.2)
+  - MJRefresh (3.1.12)
+  - SnapKit (3.2.0)
+  - SVProgressHUD (2.1.2)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - FDFullscreenPopGesture (~> 1.1)
+  - Kingfisher
+  - MJRefresh
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  Kingfisher: 9950e382c500b6834ce004c7c4131c444e90c3a1
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 12a9d0516ae23715cfb79af7113e55258806e916
+
+COCOAPODS: 1.2.1.beta.1
